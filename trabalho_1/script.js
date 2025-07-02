@@ -1,16 +1,14 @@
-// Mensagem ao clicar
-document.getElementById("mostrarMensagem").addEventListener("click", function () {
-  const mensagem = document.getElementById("mensagem");
-  mensagem.textContent = "Você está indo muito bem! Continue focado!";
-});
+document
+  .getElementById("mostrarMensagem")
+  .addEventListener("click", function () {
+    document.getElementById("mensagem").textContent =
+      "Você está indo muito bem! Continue focado!";
+  });
 
-// Tema escuro
-document.getElementById("temaEscuro").addEventListener("click", function () {
+  document.getElementById("temaToggle").addEventListener("change", function () {
   document.body.classList.toggle("dark");
 });
 
-// Alternar tema escuro com toggle deslizante
-document.getElementById("temaToggle").addEventListener("change", function () {
-  document.body.classList.toggle("dark");
+document.getElementById("abrirMenu").addEventListener("click", function () {
+  document.getElementById("menuLinks").classList.toggle("ativo");
 });
-
