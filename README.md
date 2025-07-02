@@ -11,7 +11,7 @@ Este projeto foi desenvolvido como parte da atividade prática da disciplina **F
 ## 🚀 Acesso
 
 - Página publicada: [Clique aqui](https://seuusuario.github.io/meu-site/)
-- Repositório: [GitHub](https://github.com/seuusuario/meu-site)
+- Repositório: [GitHub](https://github.com/victorfreireavfs/projeto_faculdade1)
 
 ---
 
