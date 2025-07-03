@@ -10,7 +10,7 @@ Este projeto foi desenvolvido como parte da atividade prática da disciplina **F
 
 ## 🚀 Acesso
 
-- Página publicada: [Clique aqui]( https://victorfreireavfs.github.io/projeto_faculdade1/)
+- Página publicada: [Clique aqui](https://victorfreireavfs.github.io/projeto_faculdade1/)
 - Repositório: [GitHub](https://github.com/victorfreireavfs/projeto_faculdade1)
 
 ---
